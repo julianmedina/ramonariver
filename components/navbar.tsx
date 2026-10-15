@@ -44,6 +44,12 @@ export function Navbar() {
           >
             Manifiesto
           </a>
+          <a
+            href="/guia"
+            className="text-muted-foreground text-sm tracking-wide uppercase hover:text-foreground transition-colors"
+          >
+            Guía de Ramón
+          </a>
           <div className="hidden lg:flex items-center gap-4 border-l border-border/60 pl-5">
             <a
               href="https://instagram.com/ramonariver_"

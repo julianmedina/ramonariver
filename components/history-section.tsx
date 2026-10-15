@@ -10,46 +10,34 @@ interface TimelineItem {
 
 const timeline: TimelineItem[] = [
   {
-    year: "2008",
-    title: "El pedido por la Seleccion",
+    year: "1978–1982",
+    title: "Primer ciclo: el pibe de River",
     description:
-      "El pueblo hincha pidio a Ramon Diaz como tecnico de la Seleccion Argentina. La pasion, la garra, el estilo ofensivo que siempre caracterizo a Ramon lo hacian el candidato ideal. Pero no pudo ser. El futbol argentino le dio la espalda a uno de sus mas grandes.",
+      "Surgido de las divisiones inferiores, Ramón deslumbró como delantero y conquistó cuatro títulos: Torneo Metropolitano 1979, Torneo Nacional 1979, Torneo Metropolitano 1980 y Torneo Nacional 1981.",
   },
   {
-    year: "2012",
-    title: "La vuelta que pedimos",
+    year: "1991–1993",
+    title: "Segundo ciclo: goleador campeón",
     description:
-      "River necesitaba un lider. Pedimos por Ramon y se dio. Volvio al Monumental con la banda roja en el corazon y demostro que la historia se escribe con goles, con titulos, con pasion. Nos devolvio la alegria cuando mas la necesitabamos.",
+      "Ramón regresó bajo la dirección técnica de Daniel Passarella, fue el máximo goleador del Torneo Apertura 1991 con 14 tantos y volvió a levantar una copa con River.",
   },
   {
-    year: "1996–1997",
-    title: "La primera gran era",
+    year: "1995–2000",
+    title: "Tercer ciclo: la primera gran era",
     description:
-      "Ramón lideró a River a la Copa Libertadores 1996, el Torneo Apertura 1996, el Torneo Clausura 1997, el Torneo Apertura 1997 y la Supercopa Sudamericana 1997. Una etapa inolvidable para la historia del club.",
+      "Su etapa más gloriosa como entrenador: Copa Libertadores 1996, Torneo Apertura 1996, Torneo Clausura 1997, Torneo Apertura 1997, Supercopa Sudamericana 1997 y Torneo Apertura 1999. El tricampeón.",
   },
   {
-    year: "1979–1991",
-    title: "Cinco títulos como jugador",
+    year: "2001–2002",
+    title: "Cuarto ciclo: campeón otra vez",
     description:
-      "Surgido de las divisiones inferiores, Ramón se consagró en sus dos ciclos en River: Torneo Metropolitano 1979, Torneo Nacional 1979, Torneo Metropolitano 1980, Torneo Nacional 1981 y Torneo Apertura 1991, donde además fue el máximo goleador.",
+      "Ramón volvió a mediados de 2001 y armó un equipo vistoso que se consagró campeón del Torneo Clausura 2002, confirmando su lugar entre los técnicos más ganadores de la historia de River.",
   },
   {
-    year: "1999–2002",
-    title: "El campeón que siempre vuelve",
+    year: "2012–2014",
+    title: "Quinto ciclo: devolverle la alegría",
     description:
-      "En su segunda etapa, Ramón volvió a hacer campeón a River con el Torneo Apertura 1999 y el Torneo Clausura 2002, confirmando su lugar entre los técnicos más ganadores del club.",
-  },
-  {
-    year: "2014",
-    title: "La última alegría",
-    description:
-      "En su tercera etapa, Ramón conquistó el Torneo Final 2014 y la Copa Campeonato 2014. River volvió a celebrar y el pueblo volvió a creer.",
-  },
-  {
-    year: "2026",
-    title: "Estamos de vuelta",
-    description:
-      "River necesita a Ramon otra vez. El hincha lo pide, el corazon lo exige. No hay otro tecnico que entienda lo que significa vestir la banda roja. Es momento de que Ramon vuelva a casa.",
+      "Asumió a fines de 2012, devolvió a River el protagonismo y conquistó el Torneo Final 2014 y la Copa Campeonato 2014. Cinco etapas, catorce títulos y una misma historia: siempre campeón.",
   },
 ]
 
@@ -62,9 +50,9 @@ export function HistorySection() {
             Una historia de pasion
           </p>
           <h2 className="font-serif text-4xl md:text-6xl lg:text-7xl font-bold text-foreground tracking-tight text-balance">
-            Siempre pedimos
+            5 etapas
             <br />
-            <span className="text-primary italic">por Ramon</span>
+            <span className="text-primary italic">Siempre campeón</span>
           </h2>
         </div>
 

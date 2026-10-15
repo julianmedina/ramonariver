@@ -4,10 +4,10 @@ import { useEffect, useRef, useState } from "react"
 import { Trophy, Heart, Star, Users } from "lucide-react"
 
 const stats = [
-  { icon: Trophy, value: "8", label: "Títulos como DT de River", suffix: "" },
-  { icon: Heart, value: "100", label: "Hincha de corazon", suffix: "%" },
-  { icon: Star, value: "1", label: "Idolo eterno", suffix: "" },
-  { icon: Users, value: "90", label: "Millones lo piden", suffix: "M" },
+  { icon: Trophy, value: "9", label: "Títulos como DT de River", suffix: "" },
+  { icon: Heart, value: "5", label: "Títulos como jugador de River", suffix: "" },
+  { icon: Star, value: "14", label: "Títulos en River", suffix: "" },
+  { icon: Users, value: "1", label: "Ídolo eterno", suffix: "" },
 ]
 
 export function StatsSection() {

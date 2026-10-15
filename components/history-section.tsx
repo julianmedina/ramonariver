@@ -28,6 +28,12 @@ const timeline: TimelineItem[] = [
       "Ramón lideró a River a la Copa Libertadores 1996, el Torneo Apertura 1996, el Torneo Clausura 1997, el Torneo Apertura 1997 y la Supercopa Sudamericana 1997. Una etapa inolvidable para la historia del club.",
   },
   {
+    year: "1979–1991",
+    title: "Cinco títulos como jugador",
+    description:
+      "Surgido de las divisiones inferiores, Ramón se consagró en sus dos ciclos en River: Torneo Metropolitano 1979, Torneo Nacional 1979, Torneo Metropolitano 1980, Torneo Nacional 1981 y Torneo Apertura 1991, donde además fue el máximo goleador.",
+  },
+  {
     year: "1999–2002",
     title: "El campeón que siempre vuelve",
     description:

@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react"
 import { Trophy, Heart, Star, Users } from "lucide-react"
 
 const stats = [
-  { icon: Trophy, value: "3", label: "Titulos con River", suffix: "" },
+  { icon: Trophy, value: "8", label: "Títulos como DT de River", suffix: "" },
   { icon: Heart, value: "100", label: "Hincha de corazon", suffix: "%" },
   { icon: Star, value: "1", label: "Idolo eterno", suffix: "" },
   { icon: Users, value: "90", label: "Millones lo piden", suffix: "M" },

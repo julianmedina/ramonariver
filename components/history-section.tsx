@@ -22,10 +22,22 @@ const timeline: TimelineItem[] = [
       "River necesitaba un lider. Pedimos por Ramon y se dio. Volvio al Monumental con la banda roja en el corazon y demostro que la historia se escribe con goles, con titulos, con pasion. Nos devolvio la alegria cuando mas la necesitabamos.",
   },
   {
-    year: "2014",
-    title: "Campeon con River",
+    year: "1996–1997",
+    title: "La primera gran era",
     description:
-      "Bajo la direccion de Ramon, River levanto el campeonato de Primera Division. El equipo jugo con una identidad inconfundible: ofensivo, aguerrido, ganador. Ramon le dio a River su esencia de vuelta.",
+      "Ramón lideró a River a la Copa Libertadores 1996, el Torneo Apertura 1996, el Torneo Clausura 1997, el Torneo Apertura 1997 y la Supercopa Sudamericana 1997. Una etapa inolvidable para la historia del club.",
+  },
+  {
+    year: "1999–2002",
+    title: "El campeón que siempre vuelve",
+    description:
+      "En su segunda etapa, Ramón volvió a hacer campeón a River con el Torneo Apertura 1999 y el Torneo Clausura 2002, confirmando su lugar entre los técnicos más ganadores del club.",
+  },
+  {
+    year: "2014",
+    title: "La última alegría",
+    description:
+      "En su tercera etapa, Ramón conquistó el Torneo Final 2014 y la Copa Campeonato 2014. River volvió a celebrar y el pueblo volvió a creer.",
   },
   {
     year: "2026",
